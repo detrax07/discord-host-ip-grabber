@@ -4,6 +4,7 @@ Hello, my name is DETRAX, and today i decided to post this ip grabber that i cod
 discord webhook to receive the target's info. Its easy to use. please follow the instructions:
 
 #Linux:
+
 git clone https://github.com/detrax07/discord-host-ip-grabber
 
 on cmd, type: pip install -r requirements.txt
